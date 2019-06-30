@@ -1,8 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfriction-mastervs2019\3d_rollingfriction\main.cpp(320): warning C4305: '=': truncation from 'double' to 'float'
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfriction-mastervs2019\3d_rollingfriction\main.cpp(740): warning C4101: 'temp': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfriction-mastervs2019\3d_rollingfriction\main.cpp(909): warning C4101: 'i': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfriction-mastervs2019\3d_rollingfriction\main.cpp(1301): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfriction-mastervs2019\3d_rollingfriction\main.cpp(1391): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\profiles\njp2424\desktop\physics\level11\physics-3d-rollingfriction-mastervs2019\3d_rollingfriction\main.cpp(581): warning C4715: 'overlap': not all control paths return a value
-  3D_RollingFriction.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level11\physics-3D-RollingFriction-masterVS2019\3D_RollingFriction\Debug\3D_RollingFriction.exe
